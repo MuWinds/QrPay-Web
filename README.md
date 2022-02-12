@@ -1,9 +1,11 @@
-# OhioPay-Web
+# CPay-Web
 免签四方支付项目
 
 #QrPay是我接手时期的项目了
 
 这是远古版本的qrpay了 当时是外包的技术写的 很烂
+
+叫CPay是本人想的一种象征含义（ChinaPersonalPay 正好两个P连一块就删掉一个嘻嘻）
 
 bug记录一下：
 都不是什么大问题 有能力自己慢慢修  
