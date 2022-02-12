@@ -1,0 +1,176 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "http://www.w-x.net.cn/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se1_right_img.png",
+                    "path": "images/se1_right_img.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/zf_icon1.jpg",
+                    "path": "images/zf_icon1.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/zf_icon2.jpg",
+                    "path": "images/zf_icon2.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/zf_icon3.jpg",
+                    "path": "images/zf_icon3.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/zf_icon4.jpg",
+                    "path": "images/zf_icon4.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/zf_icon5.jpg",
+                    "path": "images/zf_icon5.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se2_card2.png",
+                    "path": "images/se2_card2.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se2_card1.png",
+                    "path": "images/se2_card1.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se2_card4.png",
+                    "path": "images/se2_card4.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se2_card3.png",
+                    "path": "images/se2_card3.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se3_left_img.png",
+                    "path": "images/se3_left_img.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se3_icon1.png",
+                    "path": "images/se3_icon1.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se3_icon2.png",
+                    "path": "images/se3_icon2.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_icon1.png",
+                    "path": "images/se4_icon1.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_card1.jpg",
+                    "path": "images/se4_card1.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_icon2.png",
+                    "path": "images/se4_icon2.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_card2.jpg",
+                    "path": "images/se4_card2.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_icon3.png",
+                    "path": "images/se4_icon3.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_card3.jpg",
+                    "path": "images/se4_card3.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_icon4.png",
+                    "path": "images/se4_icon4.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se4_card4.jpg",
+                    "path": "images/se4_card4.jpeg"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se5_icon3.png",
+                    "path": "images/se5_icon3.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se5_icon1.png",
+                    "path": "images/se5_icon1.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/picture/se5_icon2.png",
+                    "path": "images/se5_icon2.png"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/js/jquery-2.2.1.min.js",
+                    "path": "js/jquery-2.2.1.min.js"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/js/jquery.fullpage.min.js",
+                    "path": "js/jquery.fullpage.min.js"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/js/wow.min.js",
+                    "path": "js/wow.min.js"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/css/iconfont.css",
+                    "path": "css/iconfont.css",
+                    "children": []
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/css/animate.min.css",
+                    "path": "css/animate.min.css"
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/css/main.css",
+                    "path": "css/main.css",
+                    "children": [
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/se1_bg.jpg",
+                            "path": "images/se1_bg.jpg"
+                        },
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/se2_bg_bottom.png",
+                            "path": "images/se2_bg_bottom.png"
+                        },
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/se3_bg_bottom.png",
+                            "path": "images/se3_bg_bottom.png"
+                        },
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/se4_bg.png",
+                            "path": "images/se4_bg.png"
+                        },
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/se5_bg.jpg",
+                            "path": "images/se5_bg.jpg"
+                        },
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/login_img.jpg",
+                            "path": "images/login_img.jpg"
+                        },
+                        {
+                            "url": "http://www.w-x.net.cn/Content/main/images/date.png",
+                            "path": "images/date.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.w-x.net.cn/Content/main/css/main_mobile.css",
+                    "path": "css/main_mobile.css",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>2-7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#74A3FB" offset="0%"></stop>
+            <stop stop-color="#4385FA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="-8.17124146e-14" y="0.00122507511" width="48.0024502" height="48" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页" transform="translate(-690.000000, -1503.000000)">
+            <g id="Group-44" transform="translate(200.000000, 1260.000000)">
+                <g id="DataURI-引擎-Copy" transform="translate(380.000000, 243.000000)">
+                    <g id="2-7" transform="translate(110.000000, 0.000000)">
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="60" height="60"></rect>
+                        <g id="Group-46" transform="translate(5.000000, 6.000000)">
+                            <g id="Group-22">
+                                <g id="Rectangle-2" transform="translate(24.001225, 24.001225) rotate(-270.000000) translate(-24.001225, -24.001225) ">
+                                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                    <rect stroke-opacity="0.2" stroke="#78A3F7" stroke-width="0.5" x="0.25" y="0.251225075" width="47.5024502" height="47.5" rx="4"></rect>
+                                </g>
+                                <path d="M18.0012251,-13.9901068 C18.0012251,-16.2047097 19.7977463,-18 21.9970513,-18 L30.0012251,-18 L30.0012251,30 L21.9970513,30 C19.7902174,30 18.0012251,28.2059475 18.0012251,25.9901068 L18.0012251,-13.9901068 Z" id="Rectangle-2" fill="#FCFDFD" opacity="0.2" transform="translate(24.001225, 6.000000) rotate(-270.000000) translate(-24.001225, -6.000000) "></path>
+                                <circle id="Oval-2" fill="#FFFFFF" opacity="0.3" cx="7.00122508" cy="6" r="2"></circle>
+                                <circle id="Oval-2-Copy" fill="#FFFFFF" opacity="0.3" cx="13.0012251" cy="6" r="2"></circle>
+                                <circle id="Oval-2-Copy-2" fill="#FFFFFF" opacity="0.3" cx="19.0012251" cy="6" r="2"></circle>
+                            </g>
+                            <g id="pencil" opacity="0.3" transform="translate(13.000000, 18.000000)" stroke="#FFFFFF" stroke-width="2">
+                                <path d="M0.131,19.971 C0.308,19.539 2.083,13.969 2.083,13.969 L15.547,0.505 C16.214,-0.162 17.606,-0.186 18.334,0.544 L20.456,2.645 C21.174,3.362 21.185,4.701 20.464,5.423 L7.005,18.881 C7.005,18.881 1.704,20.517 0.96,20.836 C0.221,21.151 -0.189,20.746 0.131,19.971 L0.131,19.971 Z" id="Shape"></path>
+                                <path d="M13.007,2.998 L18.007,7.998" id="Shape_1_"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

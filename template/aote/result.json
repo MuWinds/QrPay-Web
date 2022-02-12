@@ -1,0 +1,54 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "www-w-x-net-cn-hefdeeq3",
+    "options": {
+        "url": "http://www.w-x.net.cn/",
+        "index": "index.html",
+        "domain": "www.w-x.net.cn",
+        "origin": "http://www.w-x.net.cn",
+        "ipaddress": "180.101.160.21",
+        "originURL": "http://www.w-x.net.cn/",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html",
+                "last-modified": "Sun, 07 Feb 2021 11:24:36 GMT",
+                "accept-ranges": "bytes",
+                "etag": "\"072b2d043fdd61:0\"",
+                "server": "Microsoft-IIS/10.0",
+                "x-powered-by": "ASP.NET",
+                "date": "Thu, 03 Jun 2021 05:58:49 GMT",
+                "connection": "close",
+                "content-length": "12709"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1622699932661,
+        "end": 1622699943871,
+        "spend": 11.21
+    }
+}

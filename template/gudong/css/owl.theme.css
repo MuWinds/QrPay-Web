@@ -1,0 +1,100 @@
+/* 
+ * 	Default theme - Owl Carousel CSS File
+ *	v2.0.0
+ */
+
+.owl-theme .owl-controls{
+	margin-top: 10px;
+	position: absolute;
+    z-index: 999;
+    top: 84%;
+	width:100%;
+	text-align: center;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	}
+/*
+.owl-theme .owl-controls .owl-dots{
+	margin-top:74px;
+}
+*/
+
+/* Styling Next and Prev buttons */
+.owl-nav{display:none!important;}
+.owl-prev{left:10px;}
+.owl-prev:hover{background-position:0 -80px!important;}
+.owl-next{right:10px;background-position:-80px 0!important;}
+.owl-next:hover{background-position:-80px -80px!important;}
+.owl-theme .owl-controls .owl-nav div{
+	width: 80px;
+    height: 80px;
+    background: url(../images/imgbtn.png) no-repeat;
+    cursor: pointer;
+    border-radius: 50%;
+    position: absolute;
+    text-indent: -999px;
+    overflow: hidden;
+	margin-top: -22%;
+}
+.owl-theme .owl-controls .owl-nav .disabled{
+	opacity: 0.5;
+	cursor: default;
+}
+
+/* Clickable class fix problem with hover on touch devices */
+/* Use it for non-touch hover action */
+.owl-theme .owl-controls .owl-nav div:hover{
+	text-decoration: none;
+}
+
+/* Styling dots*/
+.owl-theme .owl-dots .owl-dot{
+	display: inline-block;
+	zoom: 1;
+	*display: inline;/*IE7 life-saver */
+}
+
+.owl-theme .owl-dots .owl-dot span{
+	-webkit-backface-visibility: visible;
+	display: block;
+	width: 10px;
+	height: 10px;
+	margin: 5px 7px;
+	filter: Alpha(Opacity=50);/*IE7 fix*/
+	opacity: 0.5;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background: #fff;
+	transition-property: opacity;
+  	transition-duration: 200ms;
+  	transition-timing-function: ease;
+}
+
+.owl-theme .owl-dots .owl-dot.active span{
+	filter: Alpha(Opacity=100);/*IE7 fix*/
+	opacity: 1;
+}
+/*媒体查询*/
+@media (max-width: 767px) {
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.owl-theme .owl-controls{top: 88%;}
+	.owl-nav{display:block!important;}
+	.owl-theme .owl-controls .owl-nav div{margin-top: -20%;}
+} 
+
+
+/*PC主要样式*/
+@media (min-width: 992px) {
+	.owl-theme .owl-controls{top: 92%;}
+	.owl-nav{display:block!important;}
+	.owl-theme .owl-controls .owl-nav div{margin-top: -300px;}
+}
+
+/*大屏幕样式*/
+@media (min-width: 1200px) {
+	
+}

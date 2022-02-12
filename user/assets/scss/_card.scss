@@ -1,0 +1,52 @@
+/* ==============
+  Card
+===================*/
+.card {
+  border: none;
+  box-shadow: $shadow;
+  margin-bottom: 20px;
+}
+
+.card-primary {
+  background-color: $primary;
+  border-color: $primary;
+}
+.card-success {
+  background-color: $success;
+  border-color: $success;
+}
+.card-info {
+  background-color: $info;
+  border-color: $info;
+}
+.card-warning {
+  background-color: $warning;
+  border-color: $warning;
+}
+.card-danger {
+  background-color: $danger;
+  border-color: $danger;
+}
+
+.card-header {
+  border-bottom: 1px solid rgba($dark,0.05);
+}
+
+@media (min-width: 576px) {
+  .card-deck{
+    margin: 0px -10px;
+    .card{
+      margin: 0px 10px;
+      
+    }
+  }
+  .card-columns {
+      -webkit-column-gap: 20px;
+      -moz-column-gap: 20px;
+      column-gap: 20px;
+  }
+}
+
+.card-columns .card {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,196 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "http://pay.3333339321.cn/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/images/bann1.png",
+                    "path": "images/bann1.png"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/images/home-ab.png",
+                    "path": "images/home-ab.png"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/images/blog1.jpeg",
+                    "path": "images/blog1.jpeg"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/images/blog2.jpeg",
+                    "path": "images/blog2.jpeg"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/images/blog3.jpeg",
+                    "path": "images/blog3.jpeg"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/images/mobile.png",
+                    "path": "images/mobile.png"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/jquery-3.3.1.min.js",
+                    "path": "js/jquery-3.3.1.min.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/owl.carousel.js",
+                    "path": "js/owl.carousel.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/theme-change.js",
+                    "path": "js/theme-change.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/jquery.magnific-popup.js",
+                    "path": "js/jquery.magnific-popup.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/jquery.js",
+                    "path": "js/jquery.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/jquery-1.7.2.min.js",
+                    "path": "js/jquery-1.7.2.min.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/jquery.glide.js",
+                    "path": "js/jquery.glide.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/wow.min.js",
+                    "path": "js/wow.min.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/js/script.js",
+                    "path": "js/script.js"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/css/fontawesome-all.min.css",
+                    "path": "css/fontawesome-all.min.css",
+                    "children": [
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/fa-brands-400.svg#fontawesome",
+                            "path": "images/fa-brands-400.svg"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/fa-regular-400.svg#fontawesome",
+                            "path": "images/fa-regular-400.svg"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/fonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/fa-solid-900.svg#fontawesome",
+                            "path": "images/fa-solid-900.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/css/style-starter.css",
+                    "path": "css/style-starter.css",
+                    "children": [
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/bg2.png",
+                            "path": "images/bg2.png"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/bg2-dark.png",
+                            "path": "images/bg2-dark.png"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/banner.png",
+                            "path": "images/banner.png"
+                        },
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/bg1.png",
+                            "path": "images/bg1.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/css/style.css",
+                    "path": "css/style.css",
+                    "children": []
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/css/iconfont.css",
+                    "path": "css/iconfont.css",
+                    "children": []
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/css/animate.min.css",
+                    "path": "css/animate.min.css"
+                },
+                {
+                    "url": "http://pay.3333339321.cn/Template/default/css/qietu.css",
+                    "path": "css/qietu.css",
+                    "children": [
+                        {
+                            "url": "http://pay.3333339321.cn/Template/default/images/down-icon.gif",
+                            "path": "images/down-icon.gif"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

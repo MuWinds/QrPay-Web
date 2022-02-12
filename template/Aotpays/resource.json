@@ -1,0 +1,121 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "http://ma.azheds.com/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/big.png",
+                    "path": "images/big.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/home_wx.png",
+                    "path": "images/home_wx.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/home_alipay.png",
+                    "path": "images/home_alipay.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/home_qq.png",
+                    "path": "images/home_qq.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/a3.png",
+                    "path": "images/a3.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/a2.png",
+                    "path": "images/a2.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/a1.png",
+                    "path": "images/a1.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/user.png",
+                    "path": "images/user.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/f1.png",
+                    "path": "images/f1.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/f4.png",
+                    "path": "images/f4.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/f11.png",
+                    "path": "images/f11.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/images/feature.png",
+                    "path": "images/feature.png"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/js/js-sdk-pro.min.js",
+                    "path": "js/js-sdk-pro.min.js"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/js/popper.min.js",
+                    "path": "js/popper.min.js"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js"
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/css/style.css",
+                    "path": "css/style.css",
+                    "children": []
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/css/jdc-side-panel.css",
+                    "path": "css/jdc-side-panel.css",
+                    "children": [
+                        {
+                            "url": "http://ma.azheds.com/Public/Template/Index/images/qrtips.png",
+                            "path": "images/qrtips.png"
+                        },
+                        {
+                            "url": "http://ma.azheds.com/Public/Template/Index/images/qrcode.jpg",
+                            "path": "images/qrcode.jpg"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://ma.azheds.com/Public/Template/Index/css/common.css",
+                    "path": "css/common.css",
+                    "children": [
+                        {
+                            "url": "http://ma.azheds.com/Public/Template/Index/fonts/jdcfont.eot",
+                            "path": "fonts/jdcfont.eot"
+                        },
+                        {
+                            "url": "http://ma.azheds.com/Public/Template/Index/fonts/jdcfont.woff",
+                            "path": "fonts/jdcfont.woff"
+                        },
+                        {
+                            "url": "http://ma.azheds.com/Public/Template/Index/fonts/jdcfont.ttf",
+                            "path": "fonts/jdcfont.ttf"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://codepay.azheds.com/template/web/htdocs/favicon.ico",
+                    "path": "favicon.ico"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>2-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#A252F9" offset="0%"></stop>
+            <stop stop-color="#DE46E0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页" transform="translate(-1070.000000, -1260.000000)">
+            <g id="Group-44" transform="translate(200.000000, 1260.000000)">
+                <g id="DataURI-引擎" transform="translate(760.000000, 0.000000)">
+                    <g id="2-3" transform="translate(110.000000, 0.000000)">
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="60" height="60"></rect>
+                        <g id="Group-6" transform="translate(6.000000, 6.000000)">
+                            <rect id="Rectangle-2" fill="url(#linearGradient-1)" transform="translate(24.000000, 24.001225) rotate(-270.000000) translate(-24.000000, -24.001225) " x="-0.00122507511" y="0.00122507511" width="48.0024502" height="48" rx="4"></rect>
+                            <path d="M18,-13.9901068 C18,-16.2047097 19.7965212,-18 21.9958262,-18 L30,-18 L30,30 L21.9958262,30 C19.7889923,30 18,28.2059475 18,25.9901068 L18,-13.9901068 Z" id="Rectangle-2" fill="#F8F9FB" opacity="0.2" transform="translate(24.000000, 6.000000) rotate(-270.000000) translate(-24.000000, -6.000000) "></path>
+                            <circle id="Oval-2" fill="#FFFFFF" opacity="0.2" cx="7" cy="6" r="2"></circle>
+                            <circle id="Oval-2-Copy" fill="#FFFFFF" opacity="0.2" cx="13" cy="6" r="2"></circle>
+                            <circle id="Oval-2-Copy-2" fill="#FFFFFF" opacity="0.2" cx="19" cy="6" r="2"></circle>
+                            <rect id="Rectangle-2" fill="#FFFFFF" opacity="0.2" transform="translate(14.757830, 21.311697) rotate(-270.000000) translate(-14.757830, -21.311697) " x="10.4461333" y="13.5538667" width="8.62339321" height="15.5156598" rx="2"></rect>
+                            <rect id="Rectangle-2-Copy" fill="#FFFFFF" opacity="0.2" transform="translate(14.862716, 35.586595) rotate(-270.000000) translate(-14.862716, -35.586595) " x="7.84067904" y="27.7238793" width="14.0440742" height="15.7254323" rx="2"></rect>
+                            <rect id="Rectangle-2-Copy-2" fill="#FFFFFF" opacity="0.2" transform="translate(33.362716, 29.740578) rotate(-270.000000) translate(-33.362716, -29.740578) " x="20.4946615" y="22.3778618" width="25.7361094" height="14.7254323" rx="2"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

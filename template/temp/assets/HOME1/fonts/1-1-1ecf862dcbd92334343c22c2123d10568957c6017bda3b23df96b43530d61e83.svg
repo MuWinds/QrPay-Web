@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>2-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#6CB1F8" offset="0%"></stop>
+            <stop stop-color="#23D1DD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页" transform="translate(-1070.000000, -1503.000000)">
+            <g id="Group-44" transform="translate(200.000000, 1260.000000)">
+                <g id="DataURI-引擎" transform="translate(760.000000, 243.000000)">
+                    <g id="2-3" transform="translate(110.000000, 0.000000)">
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="0" width="60" height="60"></rect>
+                        <g id="Group-6" transform="translate(6.000000, 6.000000)">
+                            <rect id="Rectangle-2" fill="url(#linearGradient-1)" transform="translate(24.000000, 24.001225) rotate(-270.000000) translate(-24.000000, -24.001225) " x="-0.00122507511" y="0.00122507511" width="48.0024502" height="48" rx="4"></rect>
+                            <g id="Group-20" opacity="0.3" transform="translate(6.000000, 6.000000)">
+                                <g id="Group-5" opacity="0.5" transform="translate(2.893794, 2.159100)" stroke="#FFFFFF" stroke-width="2">
+                                    <rect id="Rectangle-2" transform="translate(15.489947, 15.473553) rotate(-315.000000) translate(-15.489947, -15.473553) " x="5.80294549" y="5.78655107" width="19.3740032" height="19.3740032"></rect>
+                                    <path d="M4.31538989,15 L27.3510036,15" id="Line" stroke-linecap="square"></path>
+                                    <path d="M15.6666667,4.31598 L15.6666667,26.6314594" id="Line" stroke-linecap="square"></path>
+                                </g>
+                                <g id="Group-2" transform="translate(18.140150, 18.034152) rotate(-270.000000) translate(-18.140150, -18.034152) translate(14.140150, 0.534152)" fill="#FFFFFF">
+                                    <g id="Group-3" transform="translate(0.000000, 0.000000)">
+                                        <circle id="Oval-6-Copy-2" cx="3.59850062" cy="3.59850062" r="3.59850062"></circle>
+                                        <circle id="Oval-6-Copy-5" cx="3.59850062" cy="30.9471054" r="3.59850062"></circle>
+                                    </g>
+                                </g>
+                                <g id="Group-3" transform="translate(14.768846, 0.359850)" fill="#FFFFFF">
+                                    <circle id="Oval-6-Copy-2" cx="3.59850062" cy="3.59850062" r="3.59850062"></circle>
+                                    <circle id="Oval-6-Copy-5" cx="3.59850062" cy="30.9471054" r="3.59850062"></circle>
+                                    <circle id="Oval-6-Copy-6" cx="3.59850062" cy="17.272803" r="3.59850062"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,154 @@
+<!--**************************************************
+ * 恋空表白墙
+ * 作者：枫腾(LKBBQ.TOP)
+ * 时间：2019-1-12
+ * 源码来自 有野出没(Yelook)
+ * 2020.5.7移植程序koizora表白墙 告白墙程序
+ * 运营：星光世家(原凌枫网络科技工作室)
+ * 所有代码均独立二次编写美化，谢绝一切形式的盗站行为！！
+ * 站点描述与标题为本站所有，请其他同行立即删除相关信息！！
+ *************************************************-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="koizora-yun" content="V2.7 (Build 2006108)">
+	<title>表白页_恋空表白墙 - 陪伴是最长情的告白</title>
+    <meta http-equiv="keywords" content=",,恋空表白墙,表白,表白墙,告白,告白墙,校园表白,情侣,情人节,七夕,qq表白墙">
+    <meta name="description" content="这是一封来自【】的深情告白情书，恋空表白墙免费保存您的表白信息，记录您和TA的故事。" />
+    <link rel="SHORTCUT ICON" href="//wall.arsn.cn/favicon.ico">
+	<link rel="stylesheet" href="//wall.arsn.cn/css/style.css">
+	<link rel="stylesheet" href="//wall.arsn.cn/css/Mouse-1.0.1.lkbbq.css">
+	<script type="text/javascript" src="//wall.arsn.cn/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="//cdn.bootcdn.net/ajax/libs/layer/2.3/layer.js"></script>
+	<script type="text/javascript" src="//wall.arsn.cn/js/forlove.js"></script>
+    <script type="text/javascript" src="//wall.arsn.cn/js/koizora.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<script>
+	var URL = "//wall.arsn.cn/php"
+    var APP = "index.php";
+    $(function(){
+    	if(0==1){
+    		$.get('/index.php/home/index/nc', function(data) {
+    		$(".wenc").html(data);
+    		$(".ncmask").fadeIn(200);
+    		});
+    	}
+    })
+	</script>
+</head>
+<body>
+	<div class="header">
+		<div class="tophead">
+			<h1>恋空表白墙 - 陪伴是最长情的告白</h1>
+		</div>
+		<img src="//wall.arsn.cn/images/logo.png" alt="告白墙" class="logo"><br>
+		<a href="//wall.arsn.cn/" class="butt">去首页表白</a>
+	</div>
+	<div class="search">
+		<form action="" onsubmit="return false" class="sform">
+			<input type="text" name="k" placeholder="请输入您要搜索的表白内容" class="his sin">
+			<div class="sjiao">搜索</div>
+		</form>
+	</div>
+<div class="ncmask">
+	<div class="allnotic">
+	<div class="cls"><a href="javascript:cls()" class="node">X</a></div>
+	<div class="wenc">
+		提示
+	</div>
+</div>
+</div>
+
+<div class="wrap">
+<div class="main">
+	  <div class="point">
+		<center><a href="/"><img src="http://wall.arsn.cn/images/404.png" class="Error404"></a><center>
+		<center><a href="/"><img src="http://wall.arsn.cn/images/404m.png" class="Error404m"></a><center>
+	  </div>		
+		  <div class="point">
+					<center><p><a><img src="https://cdn.u1.huluxia.com/g3/M01/28/4B/wKgBOV6S5qKAQnlTAAWBwUA9U5c635.gif" style="width:100%;"></a>
+<a href="" target="_blank"><img src="https://s1.ax1x.com/2020/05/20/Y7Dd2T.png" style="width:100%;"></a><a href="" target="_blank"><img src="https://i.loli.net/2020/05/22/Xfxhsc49GqIJSCt.png" style="width:100%;"></a></p><center>
+			</div>	
+	  </div>	<!-- 分享页背景音乐S -->
+		<span style="display: none">
+			<div id="music" key="5ebfb1ec7e2cf" api="https://music.m0x.cn"></div><script id="xplayer" src="https://music.m0x.cn/Static/player2/js/player.js" ></script>
+		</span>	<!-- 分享页背景音乐E -->
+<div class="hidemask2">
+<div class="hideform">
+	<form action="" id="reply2" onsubmit="return false">
+		<p>请填写您的相关信息<span class="close"><a href="javascript:closes()" class="node">X</a></span></p>
+		<input type="hidden" name="id" value="" id="hiid">
+		<input type="hidden" name="reply" value="" id="hireply">
+		<p><input type="text" name="qq" id="qq" placeholder="QQ（必填）" class="his"></p>
+		<p><input type="text" name="nname" id="realname" placeholder="昵称（必填）" class="his"></p>
+		<p><input type="submit" value="提交" class="hisu"></p>
+	</form>
+</div>
+</div>
+<div class="notic"></div>
+
+<div class="load">
+	<div class="spinner">
+	  <div class="rect1"></div>
+	  <div class="rect2"></div>
+	  <div class="rect3"></div>
+	  <div class="rect4"></div>
+	  <div class="rect5"></div>
+	</div>	
+</div>
+
+	<div class="footer">
+    <p>版权所有 &copy; 恋空表白墙</p>
+	<p>Prowered by <a href="http://wall.arsn.cn/" target="_blank" style="color: #fff;text-decoration: none;">Koizora.White wall</a></p>
+	<span id="sitetime"></span>
+<script language=javascript>
+    function siteTime(){
+        window.setTimeout("siteTime()", 1000);
+        var seconds = 1000;
+        var minutes = seconds * 60;
+        var hours = minutes * 60;
+        var days = hours * 24;
+        var years = days * 365;
+        var today = new Date();
+        var todayYear = today.getFullYear();
+        var todayMonth = today.getMonth()+1;
+        var todayDate = today.getDate();
+        var todayHour = today.getHours();
+        var todayMinute = today.getMinutes();
+        var todaySecond = today.getSeconds();
+        var t1 = Date.UTC(2017,05,29,00,00,00);
+        var t2 = Date.UTC(todayYear,todayMonth,todayDate,todayHour,todayMinute,todaySecond);
+        var diff = t2-t1;
+        var diffYears = Math.floor(diff/years);
+        var diffDays = Math.floor((diff/days)-diffYears*365);
+        var diffHours = Math.floor((diff-(diffYears*365+diffDays)*days)/hours);
+        var diffMinutes = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours)/minutes);
+        var diffSeconds = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours-diffMinutes*minutes)/seconds);
+        document.getElementById("sitetime").innerHTML=" 本站已运行"+diffYears+" 年 "+diffDays+" 天 "+diffHours+" 小时 "+diffMinutes+" 分钟 "+diffSeconds+" 秒";
+    }
+    siteTime();
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</div>
+<!-- 站长统计代码 -->
+<span style="display: none">
+    <!-- 各类统计代码都放在这里…… -->
+	<script src="https://s22.cnzz.com/z_stat.php?id=1262719007&web_id=1262719007" language="JavaScript"></script>
+</span>
+</body>
+</html>
+

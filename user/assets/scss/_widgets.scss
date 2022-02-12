@@ -1,0 +1,106 @@
+/* ==============
+  Widgets
+===================*/
+.widget-chart li {
+  width: 31.5%;
+  display: inline-block;
+  padding: 0;
+
+  i {
+    font-size: 22px;
+  }
+}
+
+.mini-stats{
+  overflow: hidden;
+  .mini-stats-content{
+    background: $bg-gradient;
+  }
+  .mini-stats-desc{
+    position: relative;
+    bottom: 22px;
+    box-shadow: $shadow;
+  }
+}
+
+//Dashboard chart
+.dash-chart {
+  height: 250px;
+}
+
+// latest messages
+
+.latest-messages-tabs{
+  position: relative;
+  .nav-link{
+    padding-bottom: 24px;
+    color: $dark;
+    position: relative;
+    &:hover, &:focus{
+      border-color: transparent;
+      background: transparent; 
+    }
+  }
+  .nav-link.active{
+    border-color: transparent;
+    background: transparent;
+    &::before{
+      content: "";
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      bottom: -7px;
+      left: 0px;
+      right: 0px;
+      border-left: 1px solid $lightdark-alt;
+      border-top: 1px solid $lightdark-alt;
+      transform: rotate(45deg);
+      background: $white;
+      margin: 0px auto;
+    }
+    h3{
+      color: $primary;
+    }
+  }
+}
+
+.latest-message-list{
+  .message-list-item{
+    position: relative;
+    padding: 14px 0px;
+    border-bottom: 1px solid $lightgray;
+    &:last-child{
+      border: none;
+    }
+    .time{
+      position: absolute;
+      right: 0px;
+      top: 10px;
+    }
+  }
+}
+
+// recent-activity
+
+.rec-acti-input{
+  .form-control{
+    padding: 5px 12px;
+  }
+}
+
+.rec-acti-list{
+  .rec-acti-list-item{
+    position: relative;
+    padding: 14px 0px;
+    border-bottom: 1px solid $lightgray;
+    &:last-child{
+      border: none;
+    }
+    .delete-icon{
+      position: absolute;
+      right: 22px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+}
